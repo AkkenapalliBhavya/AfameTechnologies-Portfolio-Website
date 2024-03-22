@@ -1,0 +1,290 @@
+
+.bg {
+    background-color: #d9EEE1;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+}
+
+.bg1 {
+    background-color: #d9EEE1;
+    height: 100vh;
+}
+
+.textContent {
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.align {
+    text-align: center;
+}
+
+.fname {
+    color: Black;
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.lname {
+    color: purple;
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.logoWidth {
+    width: 90px;
+    height: 70px;
+}
+
+.buttonStyle {
+    background-color: #f9fbfe;
+    border-width: 0px;
+    margin-left: 5px;
+}
+
+.hireButton {
+    border-width: 0px;
+    color: #ffffff;
+    background-color: green;
+    font-family: "Roboto";
+}
+
+.imgwidth {
+    height: 300px;
+    width: 50px;
+
+}
+
+.AboutSection {
+    color: gray;
+    font-size: 35px;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.AboutContent {
+    padding-left: 10px;
+    font-family: "Roboto";
+}
+
+.spanContent {
+    color: blue;
+}
+
+.spanE {
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.graduateImg {
+    width: 100px;
+}
+
+.stydytypeHead {
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.courseStyle {
+    font-family: "Roboto";
+}
+
+.jButton {
+    background-color: gray;
+    color: white;
+    width: 80%;
+    margin-left: 10px;
+    border-width: 0px;
+
+}
+
+.Skills {
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 20px;
+    color: grey;
+    font-size: 35px;
+}
+
+.skillName {
+    color: green;
+    padding-top: 15px;
+    font-family: "Bree Serif";
+
+}
+
+.rate {
+    color: red;
+    font-family: "Bree serif";
+}
+
+.MyProject {
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 20px;
+    color: grey;
+    font-size: 35px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.MyProjectsContent {
+    font-family: "Roboto";
+    text-align: center;
+    padding-left: 25px;
+}
+
+.WebSitesContentContainer {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    height: 450px;
+    width: 350px;
+    text-align: center;
+}
+
+.staticContainer {
+    margin-left: 40px;
+}
+
+.responsiveContainer {
+    margin-left: 15px;
+}
+
+.WebSitesHead {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.websitecontent {
+    padding-left: 18px;
+    font-family: "Roboto";
+}
+
+.collegeContent {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 200px;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+    font-family: "Roboto";
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.GraduCollege {
+    margin-left: 20px;
+}
+
+.nameCollege {
+    font-weight: 500;
+}
+
+.InstituteName {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 350px;
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-family: "Roboto";
+}
+
+.instituteImg {
+    width: 100px;
+    height: 90px;
+}
+
+.webImage {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.Rewards {
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 20px;
+    color: grey;
+    font-size: 35px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.pCert {
+    font-size: 20px;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+}
+
+.paraCer {
+    padding-left: 10px;
+}
+
+.imgCert {
+    width: 300px;
+    padding-right: 35PX;
+}
+
+.contactUs {
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 20px;
+    color: grey;
+    font-size: 35px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.footerBack {
+    background-color: #0b0b45;
+    height: 50vh;
+}
+
+.spanEName {
+    color: white;
+    font-family: "Roboto";
+}
+
+.alignName {
+    text-align: center;
+    color: gray;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.hrLine {
+    background-color: black;
+    height: 2px;
+    width: 100%;
+}
+
+.HomeButton {
+    text-align: Right;
+    margin-right: 10px;
+    font-family: "Roboto";
+}
+.linkdinImg{
+    width:50px;
+    height:50px;
+}
+..copyRight{
+    color:gray;
+    text-align:center;
+    font-family:"Roboto";
+    font-size:12px;
+}
